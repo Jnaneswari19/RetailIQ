@@ -1,5 +1,14 @@
 # 📊 RetailIQ - Sales Management & Analytics Dashboard
 
+## 🚀 Transform Retail Data into Actionable Business Insights
+
+RetailIQ is an end-to-end Sales Management and Business Analytics Dashboard that enables businesses to manage customers, products, and sales while gaining real-time insights through interactive visualizations and downloadable reports.
+
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 ## Overview
 
 RetailIQ is a Python-based Sales Management and Analytics System that helps businesses manage customers, products, and sales while providing interactive business insights through a Streamlit dashboard.
@@ -7,6 +16,17 @@ RetailIQ is a Python-based Sales Management and Analytics System that helps busi
 The project integrates MySQL for database management, Pandas for data analysis, SQLAlchemy for database connectivity, and Streamlit for creating a modern web dashboard.
 
 ---
+## ⭐ Project Highlights
+
+- End-to-End Retail Sales Management System
+- Interactive Streamlit Dashboard
+- MySQL Relational Database
+- SQLAlchemy Database Integration
+- Secure Admin Authentication
+- Business KPI Dashboard
+- Interactive Charts & Visual Analytics
+- CSV, Excel & PDF Report Export
+- Logging and Error Handling
 
 # Features
 
@@ -104,7 +124,8 @@ RetailIQ/
 ├── requirements.txt
 ├── main.py
 ├── check_data.py
-└── retailiq.log
+└── .gitignore
+    LICENSE
 ```
 
 ---
@@ -318,12 +339,20 @@ The dashboard includes:
 - REST API Integration
 
 ---
-
-# Author
+## 👩‍💻 Author
 
 **Jnaneswari**
 
 Python Developer | Data Analytics Enthusiast
 
----
+GitHub:
+https://github.com/Jnaneswari19
 
+---
+# 📄 License
+
+This project is licensed under the MIT License.
+
+## 🙏 Acknowledgements
+
+This project was developed as a hands-on learning project to strengthen skills in Python, SQL, Data Analysis, Database Management, and Dashboard Development.
