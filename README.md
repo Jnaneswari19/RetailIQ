@@ -254,55 +254,55 @@ The dashboard includes:
 
 ## Login Page
 
-![Login Page](screenshots/login_page.png)
+![Login Page](Screenshots/login_page.png)
 
 ---
 
 ## Dashboard Home
 
-![Dashboard Home](screenshots/dashboard_home.png)
+![Dashboard Home](Screenshots/dashboard_home.png)
 
 ---
 
 ## Sidebar Filters
 
-![Sidebar Filters](screenshots/filters_sidebar.png)
+![Sidebar Filters](Screenshots/filters_sidebar.png)
 
 ---
 
 ## KPI Cards
 
-![KPI Cards](screenshots/kpi_cards.png)
+![KPI Cards](Screenshots/kpi_cards.png)
 
 ---
 
 ## Monthly Revenue Chart
 
-![Monthly Revenue](screenshots/monthly_revenue_chart.png)
+![Monthly Revenue](Screenshots/monthly_revenue_chart.png)
 
 ---
 
 ## Product Revenue Distribution
 
-![Pie Chart](screenshots/product_revenue_pie_chart.png)
+![Pie Chart](Screenshots/product_revenue_pie_chart.png)
 
 ---
 
 ## Customer Revenue Distribution
 
-![Donut Chart](screenshots/customer_revenue_donut_chart.png)
+![Donut Chart](Screenshots/customer_revenue_donut_chart.png)
 
 ---
 
 ## Sales Data Table
 
-![Sales Table](screenshots/sales_data_table.png)
+![Sales Table](Screenshots/sales_data_table.png)
 
 ---
 
 ## Export Reports
 
-![Export Reports](screenshots/export_reports.png)
+![Export Reports](Screenshots/export_reports.png)
 
 ---
 
